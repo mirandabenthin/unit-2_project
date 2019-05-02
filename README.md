@@ -10,13 +10,12 @@
 | --- | --- | --- |
 | Option 1: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
 | Option 1: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
-| Option 1: IMDB Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/imdb_solutions.ipynb) |
+
 | --- | --- | --- |
 | Option 2: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
 | Option 2: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
-| Option 2: Chipotle Solution Code | Sample solutions for project questions (Instructors Only) | [Here](https://git.generalassemb.ly/data-part-time/unit-project-solutions/blob/master/project-2/chipotle_solutions.ipynb) |
 
-> Note: Instructors should withold providing project solutions until students have submitted their drafts. 
+
 
 --
 
@@ -28,8 +27,8 @@ For this project, we have provided **two options**. Students should choose **one
 
 ### Option 1: Best for New Programmers
 Using your new python skills, complete a series of guided prompts exploring [the top-rated movies on IMDB](./data/imdb_1000.csv). IMDB stands for "the Internet Movie Database," an online collection of film information and reviews.
- 
-In these exercises, students will be looking to answer such questions as: 
+
+In these exercises, students will be looking to answer such questions as:
 
 - What is the average rating per genre?
 - How many different actors are in a movie?
@@ -38,13 +37,13 @@ The IMDB dataset provided is created from data scraped from the [Internet Movie 
 
 
 ### Option 2: Best for Intermediate Programmers
-Using python, conduct some exploratory data analysis on Chipotle's order data. You will be looking to answer such questions as: 
+Using python, conduct some exploratory data analysis on Chipotle's order data. You will be looking to answer such questions as:
 
   - How many orders are being made?
   - What is the average price per order?
-  - How many different ingredients? 
+  - How many different ingredients?
 
-The Chipotle data set is taken from "The Upshot" column in The New York Times. It was chosen because the data is from a familiar source representing real world consumer transaction data - plus their guacamole is delicious. 
+The Chipotle data set is taken from "The Upshot" column in The New York Times. It was chosen because the data is from a familiar source representing real world consumer transaction data - plus their guacamole is delicious.
 
 This dataset was analyzed in-depth by [data scientists from the New York Times](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html). We have modified our questions based on their analysis, but we encourage students **not** to review their analysis until **after** they have made their own attempt.
 
@@ -87,4 +86,3 @@ Your instructor will explain how to submit your assignment. Typically, this is d
 
  - Creating a repository in your github profile, hosting your materials, and sharing a link with your instructor. [or]
  - Forking the project repository, adding your solutions, and submitting a pull request back to the relevant repo.
-
