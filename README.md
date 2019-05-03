@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | Option 1: IMDB Starter Code | Project Prompts and Description | [Here](./imdb.ipynb) |
 | Option 1: IMDB Dataset | IMDB Dataset | [Here](./data/imdb_1000.csv) |
-
+|                                                                                              |
 | --- | --- | --- |
 | Option 2: Chipotle Starter Code | Project Prompts and Description | [Here](./chipotle.ipynb) |
 | Option 2: Chipotle Dataset | Dataset File | [Here](./Data/chipotle.tsv) |
